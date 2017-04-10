@@ -1,1 +1,1 @@
- Implementation of RRT algorithm for non-holonomic objects
+ Implementation of RRT path planning algorithm for non-holonomic objects with Euclidean distance heuristic
